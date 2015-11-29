@@ -16821,7 +16821,6 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <part name="R2" library="resistor" deviceset="R-EU_" device="M0805" value="10K"/>
 <part name="R5" library="resistor" deviceset="R-EU_" device="M0805" value="10K"/>
 <part name="S1" library="SparkFun-Electromechanical" deviceset="SWITCH-MOMENTARY-2" device="PTH"/>
-<part name="S2" library="SparkFun-Electromechanical" deviceset="SWITCH-MOMENTARY-2" device="PTH"/>
 <part name="U$4" library="microbuilder" deviceset="12V" device=""/>
 <part name="12V" library="con-phoenix-350" deviceset="1751248" device=""/>
 <part name="LED1" library="microbuilder" deviceset="LED" device="0805_NOOUTLINE" value="RED"/>
@@ -16908,7 +16907,6 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <instance part="R2" gate="G$1" x="-25.4" y="-2.54" rot="R180"/>
 <instance part="R5" gate="G$1" x="-27.94" y="30.48" rot="R180"/>
 <instance part="S1" gate="G$1" x="-22.86" y="38.1" rot="MR90"/>
-<instance part="S2" gate="G$1" x="-25.4" y="2.54"/>
 <instance part="U$4" gate="G$1" x="88.9" y="58.42"/>
 <instance part="12V" gate="-1" x="-10.16" y="43.18"/>
 <instance part="12V" gate="-2" x="-10.16" y="22.86"/>
@@ -17156,7 +17154,6 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <pinref part="BAT2" gate="-2" pin="KL"/>
 <pinref part="BAT1" gate="-1" pin="KL"/>
 <wire x1="-33.02" y1="7.62" x2="-33.02" y2="2.54" width="0.1524" layer="91"/>
-<pinref part="S2" gate="G$1" pin="1"/>
 <wire x1="-33.02" y1="2.54" x2="-33.02" y2="-2.54" width="0.1524" layer="91"/>
 <wire x1="-30.48" y1="2.54" x2="-33.02" y2="2.54" width="0.1524" layer="91"/>
 <junction x="-33.02" y="2.54"/>
@@ -17212,7 +17209,6 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <pinref part="R2" gate="G$1" pin="1"/>
 <junction x="-20.32" y="-2.54"/>
 <wire x1="-20.32" y1="-2.54" x2="-20.32" y2="0" width="0.1524" layer="91"/>
-<pinref part="S2" gate="G$1" pin="2"/>
 <wire x1="-20.32" y1="2.54" x2="-20.32" y2="0" width="0.1524" layer="91"/>
 <label x="-20.32" y="2.54" size="1.778" layer="95"/>
 <junction x="-20.32" y="0"/>
