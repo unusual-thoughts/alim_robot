@@ -16961,7 +16961,6 @@ Source: http://eshop.phoenixcontact.com .. 1729128.pdf</description>
 <part name="R4" library="resistor" deviceset="R-EU_" device="M0805" value="220"/>
 <part name="D2" library="alim" deviceset="DIODE-ZENER" device="SOD123"/>
 <part name="R7" library="resistor" deviceset="R-EU_" device="M0805" value="220"/>
-<part name="U$6" library="microbuilder" deviceset="GND" device=""/>
 <part name="U$18" library="microbuilder" deviceset="GND" device=""/>
 <part name="R8" library="resistor" deviceset="R-EU_" device="M0805" value="1K"/>
 <part name="R9" library="resistor" deviceset="R-EU_" device="M0805" value="1K"/>
@@ -16981,7 +16980,6 @@ Source: http://eshop.phoenixcontact.com .. 1729128.pdf</description>
 <part name="R18" library="resistor" deviceset="R-EU_" device="M0805" value="1K"/>
 <part name="D4" library="alim" deviceset="DIODE-ZENER" device="SOD123"/>
 <part name="R19" library="resistor" deviceset="R-EU_" device="M0805" value="220"/>
-<part name="U$28" library="microbuilder" deviceset="GND" device=""/>
 <part name="U$29" library="alim" deviceset="SRR1260" device=""/>
 <part name="C5" library="rcl" deviceset="C-EU" device="C0805" value="10n"/>
 <part name="U$30" library="alim" deviceset="SBRS8340" device=""/>
@@ -17049,41 +17047,39 @@ Source: http://eshop.phoenixcontact.com .. 1729128.pdf</description>
 <instance part="U$4" gate="G$1" x="-121.92" y="-25.4"/>
 <instance part="12V" gate="-1" x="-81.28" y="45.72"/>
 <instance part="12V" gate="-2" x="-81.28" y="25.4"/>
-<instance part="LED1" gate="G$1" x="7.62" y="25.4" rot="MR0"/>
-<instance part="LED2" gate="G$1" x="7.62" y="22.86" rot="MR0"/>
-<instance part="LED3" gate="G$1" x="7.62" y="20.32" rot="MR0"/>
+<instance part="LED1" gate="G$1" x="2.54" y="27.94" rot="MR0"/>
+<instance part="LED2" gate="G$1" x="2.54" y="22.86" rot="MR0"/>
+<instance part="LED3" gate="G$1" x="2.54" y="17.78" rot="MR0"/>
 <instance part="LED7" gate="G$1" x="-91.44" y="27.94" rot="R270"/>
-<instance part="LED4" gate="G$1" x="7.62" y="45.72" rot="R180"/>
-<instance part="LED5" gate="G$1" x="7.62" y="48.26" rot="R180"/>
-<instance part="LED6" gate="G$1" x="7.62" y="50.8" rot="R180"/>
+<instance part="LED4" gate="G$1" x="5.08" y="43.18" rot="R180"/>
+<instance part="LED5" gate="G$1" x="5.08" y="48.26" rot="R180"/>
+<instance part="LED6" gate="G$1" x="5.08" y="53.34" rot="R180"/>
 <instance part="LED8" gate="G$1" x="-73.66" y="-2.54" rot="R270"/>
 <instance part="R6" gate="G$1" x="-96.52" y="33.02" rot="R180"/>
 <instance part="R3" gate="G$1" x="-78.74" y="2.54" rot="R180"/>
-<instance part="D1" gate="G$1" x="12.7" y="15.24" rot="MR90"/>
-<instance part="R4" gate="G$1" x="17.78" y="17.78" rot="MR180"/>
-<instance part="D2" gate="G$1" x="-2.54" y="30.48" rot="MR90"/>
+<instance part="D1" gate="G$1" x="10.16" y="10.16" rot="MR90"/>
+<instance part="R4" gate="G$1" x="15.24" y="12.7" rot="MR180"/>
+<instance part="D2" gate="G$1" x="-5.08" y="30.48" rot="MR90"/>
 <instance part="R7" gate="G$1" x="2.54" y="33.02" rot="MR180"/>
-<instance part="U$6" gate="G$1" x="-2.54" y="25.4" rot="MR0"/>
-<instance part="U$18" gate="G$1" x="12.7" y="10.16" rot="MR0"/>
-<instance part="R8" gate="G$1" x="17.78" y="45.72"/>
-<instance part="R9" gate="G$1" x="17.78" y="48.26"/>
-<instance part="R10" gate="G$1" x="17.78" y="50.8"/>
-<instance part="R11" gate="G$1" x="17.78" y="25.4" rot="MR180"/>
-<instance part="R12" gate="G$1" x="17.78" y="22.86" rot="MR180"/>
-<instance part="R13" gate="G$1" x="17.78" y="20.32" rot="MR180"/>
-<instance part="U$26" gate="G$1" x="2.54" y="20.32" rot="MR0"/>
+<instance part="U$18" gate="G$1" x="10.16" y="5.08" rot="MR0"/>
+<instance part="R8" gate="G$1" x="15.24" y="43.18"/>
+<instance part="R9" gate="G$1" x="15.24" y="48.26"/>
+<instance part="R10" gate="G$1" x="15.24" y="53.34"/>
+<instance part="R11" gate="G$1" x="12.7" y="27.94" rot="MR180"/>
+<instance part="R12" gate="G$1" x="12.7" y="22.86" rot="MR180"/>
+<instance part="R13" gate="G$1" x="12.7" y="17.78" rot="MR180"/>
+<instance part="U$26" gate="G$1" x="-2.54" y="17.78" rot="MR0"/>
 <instance part="U6" gate="U$1" x="45.72" y="20.32" rot="MR0"/>
 <instance part="R14" gate="G$1" x="-83.82" y="40.64" rot="R90"/>
 <instance part="R15" gate="G$1" x="-83.82" y="30.48" rot="R90"/>
-<instance part="D3" gate="G$1" x="-17.78" y="33.02" rot="MR90"/>
-<instance part="R16" gate="G$1" x="-12.7" y="35.56" rot="MR180"/>
-<instance part="U$25" gate="G$1" x="2.54" y="45.72" rot="MR0"/>
-<instance part="U$27" gate="G$1" x="-17.78" y="27.94" rot="MR0"/>
+<instance part="D3" gate="G$1" x="-10.16" y="33.02" rot="MR90"/>
+<instance part="R16" gate="G$1" x="-5.08" y="35.56" rot="MR180"/>
+<instance part="U$25" gate="G$1" x="0" y="43.18" rot="MR0"/>
+<instance part="U$27" gate="G$1" x="-10.16" y="25.4" rot="MR0"/>
 <instance part="R17" gate="G$1" x="-104.14" y="10.16" rot="R90"/>
 <instance part="R18" gate="G$1" x="-104.14" y="0" rot="R90"/>
-<instance part="D4" gate="G$1" x="-30.48" y="38.1" rot="MR90"/>
-<instance part="R19" gate="G$1" x="-25.4" y="40.64" rot="MR180"/>
-<instance part="U$28" gate="G$1" x="-30.48" y="33.02" rot="MR0"/>
+<instance part="D4" gate="G$1" x="-15.24" y="38.1" rot="MR90"/>
+<instance part="R19" gate="G$1" x="-10.16" y="40.64" rot="MR180"/>
 <instance part="U$29" gate="G$1" x="-86.36" y="-30.48"/>
 <instance part="C5" gate="G$1" x="-96.52" y="-25.4" rot="R90"/>
 <instance part="U$30" gate="G$1" x="-91.44" y="-35.56" rot="R270"/>
@@ -17178,41 +17174,42 @@ Source: http://eshop.phoenixcontact.com .. 1729128.pdf</description>
 <junction x="-91.44" y="25.4"/>
 </segment>
 <segment>
-<pinref part="U$6" gate="G$1" pin="GND"/>
-<pinref part="D2" gate="G$1" pin="A"/>
-</segment>
-<segment>
 <pinref part="U$18" gate="G$1" pin="GND"/>
 <pinref part="D1" gate="G$1" pin="A"/>
 </segment>
 <segment>
 <pinref part="LED3" gate="G$1" pin="C"/>
 <pinref part="LED2" gate="G$1" pin="C"/>
-<wire x1="5.08" y1="20.32" x2="5.08" y2="22.86" width="0.1524" layer="91"/>
+<wire x1="0" y1="17.78" x2="0" y2="22.86" width="0.1524" layer="91"/>
 <pinref part="LED1" gate="G$1" pin="C"/>
-<wire x1="5.08" y1="22.86" x2="5.08" y2="25.4" width="0.1524" layer="91"/>
+<wire x1="0" y1="22.86" x2="0" y2="27.94" width="0.1524" layer="91"/>
 <pinref part="U$26" gate="G$1" pin="GND"/>
-<wire x1="2.54" y1="22.86" x2="5.08" y2="22.86" width="0.1524" layer="91"/>
-<junction x="5.08" y="22.86"/>
+<wire x1="-2.54" y1="20.32" x2="-2.54" y2="22.86" width="0.1524" layer="91"/>
+<wire x1="-2.54" y1="22.86" x2="0" y2="22.86" width="0.1524" layer="91"/>
+<junction x="0" y="22.86"/>
 </segment>
 <segment>
 <pinref part="LED4" gate="G$1" pin="C"/>
 <pinref part="LED6" gate="G$1" pin="C"/>
-<wire x1="5.08" y1="45.72" x2="5.08" y2="48.26" width="0.1524" layer="91"/>
+<wire x1="2.54" y1="43.18" x2="2.54" y2="48.26" width="0.1524" layer="91"/>
 <pinref part="LED5" gate="G$1" pin="C"/>
-<junction x="5.08" y="48.26"/>
-<junction x="5.08" y="48.26"/>
-<wire x1="5.08" y1="48.26" x2="5.08" y2="50.8" width="0.1524" layer="91"/>
+<junction x="2.54" y="48.26"/>
+<junction x="2.54" y="48.26"/>
+<wire x1="2.54" y1="48.26" x2="2.54" y2="53.34" width="0.1524" layer="91"/>
 <pinref part="U$25" gate="G$1" pin="GND"/>
-<wire x1="5.08" y1="48.26" x2="2.54" y2="48.26" width="0.1524" layer="91"/>
+<wire x1="2.54" y1="48.26" x2="0" y2="48.26" width="0.1524" layer="91"/>
+<wire x1="0" y1="48.26" x2="0" y2="45.72" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="D3" gate="G$1" pin="A"/>
 <pinref part="U$27" gate="G$1" pin="GND"/>
-</segment>
-<segment>
+<wire x1="-10.16" y1="27.94" x2="-10.16" y2="30.48" width="0.1524" layer="91"/>
 <pinref part="D4" gate="G$1" pin="A"/>
-<pinref part="U$28" gate="G$1" pin="GND"/>
+<wire x1="-15.24" y1="35.56" x2="-15.24" y2="27.94" width="0.1524" layer="91"/>
+<pinref part="D2" gate="G$1" pin="A"/>
+<wire x1="-15.24" y1="27.94" x2="-10.16" y2="27.94" width="0.1524" layer="91"/>
+<junction x="-10.16" y="27.94"/>
+<wire x1="-10.16" y1="27.94" x2="-5.08" y2="27.94" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="U$30" gate="G$1" pin="P$1"/>
@@ -17399,11 +17396,11 @@ Source: http://eshop.phoenixcontact.com .. 1729128.pdf</description>
 <wire x1="-83.82" y1="5.08" x2="-76.2" y2="5.08" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<label x="12.7" y="17.78" size="1.778" layer="95" rot="MR0"/>
+<label x="10.16" y="12.7" size="1.778" layer="95" rot="MR0"/>
 <pinref part="D1" gate="G$1" pin="C"/>
-<wire x1="5.08" y1="17.78" x2="12.7" y2="17.78" width="0.1524" layer="91"/>
+<wire x1="2.54" y1="12.7" x2="10.16" y2="12.7" width="0.1524" layer="91"/>
 <pinref part="R4" gate="G$1" pin="1"/>
-<junction x="12.7" y="17.78"/>
+<junction x="10.16" y="12.7"/>
 </segment>
 </net>
 <net name="24V" class="0">
@@ -17441,10 +17438,12 @@ Source: http://eshop.phoenixcontact.com .. 1729128.pdf</description>
 <junction x="-101.6" y="35.56"/>
 </segment>
 <segment>
-<label x="-2.54" y="33.02" size="1.778" layer="95" rot="MR0"/>
+<label x="-17.78" y="33.02" size="1.778" layer="95" rot="MR0"/>
 <pinref part="D2" gate="G$1" pin="C"/>
-<wire x1="-2.54" y1="33.02" x2="-12.7" y2="33.02" width="0.1524" layer="91"/>
+<wire x1="-5.08" y1="33.02" x2="-25.4" y2="33.02" width="0.1524" layer="91"/>
 <pinref part="R7" gate="G$1" pin="1"/>
+<wire x1="-5.08" y1="33.02" x2="-2.54" y2="33.02" width="0.1524" layer="91"/>
+<junction x="-5.08" y="33.02"/>
 </segment>
 </net>
 <net name="12V" class="0">
@@ -17524,17 +17523,16 @@ Source: http://eshop.phoenixcontact.com .. 1729128.pdf</description>
 <segment>
 <label x="-17.78" y="35.56" size="1.778" layer="95" rot="MR0"/>
 <pinref part="D3" gate="G$1" pin="C"/>
-<wire x1="-17.78" y1="35.56" x2="-10.16" y2="35.56" width="0.1524" layer="91"/>
 <pinref part="R16" gate="G$1" pin="1"/>
-<junction x="-17.78" y="35.56"/>
-<wire x1="-17.78" y1="35.56" x2="-25.4" y2="35.56" width="0.1524" layer="91"/>
+<junction x="-10.16" y="35.56"/>
+<wire x1="-10.16" y1="35.56" x2="-25.4" y2="35.56" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$27" class="0">
 <segment>
 <pinref part="U6" gate="U$1" pin="ADC6"/>
 <pinref part="R16" gate="G$1" pin="2"/>
-<wire x1="22.86" y1="35.56" x2="-7.62" y2="35.56" width="0.1524" layer="91"/>
+<wire x1="22.86" y1="35.56" x2="0" y2="35.56" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="BAT24_SENSE" class="0">
@@ -17546,11 +17544,11 @@ Source: http://eshop.phoenixcontact.com .. 1729128.pdf</description>
 <label x="-104.14" y="5.08" size="1.778" layer="95"/>
 </segment>
 <segment>
-<label x="-30.48" y="40.64" size="1.778" layer="95" rot="MR0"/>
+<label x="-17.78" y="40.64" size="1.778" layer="95" rot="MR0"/>
 <pinref part="D4" gate="G$1" pin="C"/>
-<wire x1="-30.48" y1="40.64" x2="-43.18" y2="40.64" width="0.1524" layer="91"/>
+<wire x1="-15.24" y1="40.64" x2="-25.4" y2="40.64" width="0.1524" layer="91"/>
 <pinref part="R19" gate="G$1" pin="1"/>
-<junction x="-30.48" y="40.64"/>
+<junction x="-15.24" y="40.64"/>
 </segment>
 </net>
 <net name="N$23" class="0">
@@ -17564,49 +17562,61 @@ Source: http://eshop.phoenixcontact.com .. 1729128.pdf</description>
 <segment>
 <pinref part="U6" gate="U$1" pin="PC4(ADC4/SDA)"/>
 <pinref part="R19" gate="G$1" pin="2"/>
-<wire x1="22.86" y1="40.64" x2="-20.32" y2="40.64" width="0.1524" layer="91"/>
+<wire x1="22.86" y1="40.64" x2="-5.08" y2="40.64" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$22" class="0">
 <segment>
 <pinref part="U6" gate="U$1" pin="PC0(ADC0)"/>
 <pinref part="R10" gate="G$1" pin="2"/>
+<wire x1="20.32" y1="53.34" x2="20.32" y2="50.8" width="0.1524" layer="91"/>
+<wire x1="20.32" y1="50.8" x2="22.86" y2="50.8" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$14" class="0">
 <segment>
 <pinref part="U6" gate="U$1" pin="PC1(ADC1)"/>
 <pinref part="R9" gate="G$1" pin="2"/>
+<wire x1="20.32" y1="48.26" x2="22.86" y2="48.26" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$21" class="0">
 <segment>
 <pinref part="U6" gate="U$1" pin="PC2(ADC2)"/>
 <pinref part="R8" gate="G$1" pin="2"/>
+<wire x1="20.32" y1="43.18" x2="20.32" y2="45.72" width="0.1524" layer="91"/>
+<wire x1="20.32" y1="45.72" x2="22.86" y2="45.72" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$11" class="0">
 <segment>
 <pinref part="U6" gate="U$1" pin="PD4(XCK/T0)"/>
 <pinref part="R4" gate="G$1" pin="2"/>
+<wire x1="20.32" y1="12.7" x2="20.32" y2="17.78" width="0.1524" layer="91"/>
+<wire x1="20.32" y1="17.78" x2="22.86" y2="17.78" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$24" class="0">
 <segment>
 <pinref part="U6" gate="U$1" pin="PD3(INT1)"/>
 <pinref part="R13" gate="G$1" pin="2"/>
+<wire x1="17.78" y1="17.78" x2="17.78" y2="20.32" width="0.1524" layer="91"/>
+<wire x1="17.78" y1="20.32" x2="22.86" y2="20.32" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$25" class="0">
 <segment>
 <pinref part="U6" gate="U$1" pin="PD2(INT0)"/>
 <pinref part="R12" gate="G$1" pin="2"/>
+<wire x1="17.78" y1="22.86" x2="22.86" y2="22.86" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$26" class="0">
 <segment>
 <pinref part="U6" gate="U$1" pin="PD1(TXD)"/>
 <pinref part="R11" gate="G$1" pin="2"/>
+<wire x1="17.78" y1="27.94" x2="17.78" y2="25.4" width="0.1524" layer="91"/>
+<wire x1="17.78" y1="25.4" x2="22.86" y2="25.4" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$29" class="0">
