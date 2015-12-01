@@ -31,6 +31,7 @@ Autres capteurs    | 3,3   | 5-50               | < .3
 Hokuyo             | 5     | 500 (800 init)     | < 4
 Pont en H          | 5     | 5-10               | < .05
 Servomoteurs (6)   | 5-8   | 400 (800 max)      | < 38.4
+uArm               | 5     | 5A                 |
 Autres actionneurs |       |                    |
 Moteurs            | 24    | 800 (pic)          | < 38.4
 Total (bat 1 et 2) | 24    | < 800              | < 38.4
