@@ -17619,7 +17619,7 @@ Source: http://eshop.phoenixcontact.com .. 1729128.pdf</description>
 <wire x1="17.78" y1="25.4" x2="22.86" y2="25.4" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$29" class="0">
+<net name="SW" class="0">
 <segment>
 <pinref part="U2" gate="A" pin="SW"/>
 <pinref part="U$29" gate="G$1" pin="1"/>
@@ -17630,7 +17630,7 @@ Source: http://eshop.phoenixcontact.com .. 1729128.pdf</description>
 <pinref part="U$30" gate="G$1" pin="P$2"/>
 </segment>
 </net>
-<net name="N$30" class="0">
+<net name="BOOST" class="0">
 <segment>
 <pinref part="U2" gate="A" pin="BOOST"/>
 <pinref part="C5" gate="G$1" pin="1"/>
