@@ -35,6 +35,8 @@ Total (bat 3)      | 12    | < 5.42 A           | < 65
 
 ### Choix Régulateur(s)
 
+Dynamixels non régulés? Ou step-down depuis le 24V? ou 12V?
+
 Régulateur                                            | Courant  | Package | Commentaires
 ------------------------------------------------------|----------|---------|----------------------------------------------
 [Module LM2596](http://www.ebay.com/itm/321476590827) | << 3A    | Module  | Peu fiable (!)
