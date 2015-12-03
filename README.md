@@ -24,17 +24,18 @@ Le plus simple serait de prendre des modules déja faits (très très peu chers)
 
 Elément            | U (V) | I (mA)             | P (W)
 -------------------|-------|--------------------|------
+Autres capteurs    | 3,3   | 5-50               | < .3
 Raspberry          | 5     | 700 (1.5A max)     | < 7.5
 Arduino/Teensy     | 5     | 10-20 (optimiste?) | ~.1
 Capteurs           | 5     | 5-50               | < .5
-Autres capteurs    | 3,3   | 5-50               | < .3
 Hokuyo             | 5     | 500 (800 init)     | < 4
 Pont en H          | 5     | 5-10               | < .05
-Servomoteurs (6)   | 5-8   | 400 (800 max)      | < 38.4
-Autres actionneurs |       |                    |
+uArm               | 5     | < 5A               | < 25
+Total 5V           | 5     | ~7A                | ~35V
+Servo Dynamixel    | 11.1  | 1.3A (x2)          | 28.86
 Moteurs            | 24    | 800 (pic)          | < 38.4
 Total (bat 1 et 2) | 24    | < 800              | < 38.4
-Total (bat 3)      | 12    | < 4.3 A            | < 51
+Total (bat 3)      | 12    | < 5.42 A           | < 65
 
 Démarche:
 
