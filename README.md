@@ -1,9 +1,10 @@
 Réalisation de la carte d'alimentation
 ======================================
 
-La carte d'alimentation est chargée :
-- délivrer l'alimentation des différents composants du robot
-- informer de l'état de charge des batteries avec des leds
+La carte d'alimentation est chargée de:
+- Délivrer l'alimentation des différents composants du robot
+- Informer de l'état de charge des batteries avec des leds
+- Protéger les batteries
 
 ### Ancienne Carte
 
@@ -37,6 +38,8 @@ Total (bat 3)      | 12    | < 5.42 A           | < 65
 
 Dynamixels non régulés? Ou step-down depuis le 24V? ou 12V?
 
+Utilisation de [WEBENCH](http://webench.ti.com/) pour choix régulateur.
+
 Régulateur                                            | Courant  | Package | Commentaires
 ------------------------------------------------------|----------|---------|----------------------------------------------
 [Module LM2596](http://www.ebay.com/itm/321476590827) | << 3A    | Module  | Peu fiable (!)
@@ -52,18 +55,12 @@ On garde les 2 NiMh pour le 24V
 LiPo pour le 12V:
 [5800mAh](http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=35957) ou [8000mAh](http://www.hobbyking.com/hobbyking/store/__38300__ZIPPY_Flightmax_8000mAh_3S1P_30C_Lipo_Pack_EU_Warehouse_.html)
 
+### Schematic
+#### Cicuit de protection batterie
+![](https://rawgit.com/unusual-thoughts/alim_robot/master/eagle/battery_protection.svg)
 
-#### Démarche
+#### Arduino
+![](https://rawgit.com/unusual-thoughts/alim_robot/master/eagle/arduino.svg)
 
-- Stratégie d'alimentation
-- Représentation du schématics sous Eagle
-- Agencement et réalisation de la carte
-
-- Choix de la connectique
-- Choix des régulateurs
-- Choix du micro, ATTiny 48/85
-- Choix de batterie 18-650
-
-#### Tâches
-- Programmer un Atmega328P
-- Utilisation d'Eagle (voir tutos de Jeremy Blum)
+### Aperçu carte
+![](https://rawgit.com/unusual-thoughts/alim_robot/master/eagle/board.svg)
