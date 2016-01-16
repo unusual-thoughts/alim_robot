@@ -1,0 +1,24 @@
+##############################################################
+
+my168.name=Alim Nantrobot - ATmega168 8 MHz int. clock
+
+my168.upload.protocol=arduino
+my168.upload.maximum_size=14336
+my168.maximum_data_size=1024
+my168.upload.speed=19200
+
+my168.bootloader.low_fuses=0x62
+my168.bootloader.high_fuses=0xDF
+my168.bootloader.extended_fuses=0x01
+
+my168.bootloader.file=atmega/ATmegaBOOT_168_pro_8MHz.hex
+my168.bootloader.unlock_bits=0x3F
+my168.bootloader.lock_bits=0x0F
+
+my168.build.mcu=atmega168
+my168.build.f_cpu=8000000L
+my168.build.core=arduino:arduino
+my168.build.variant=arduino:standard
+
+my168.bootloader.tool=arduino:avrdude
+my168.upload.tool=arduino:avrdude
