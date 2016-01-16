@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg8122"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   width="273.51562"
+   height="273.51562"
+   viewBox="0 0 273.51562 273.51562"
+   sodipodi:docname="Fanart.svg">
+  <metadata
+     id="metadata8128">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8126">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient8072">
+      <stop
+         style="stop-color:#2359a3;stop-opacity:1"
+         offset="0"
+         id="stop8074" />
+      <stop
+         style="stop-color:#418cf2;stop-opacity:1"
+         offset="1"
+         id="stop8076" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect8166"
+       is_visible="true" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8072"
+       id="linearGradient8078"
+       x1="99.034744"
+       y1="18.629839"
+       x2="99.034744"
+       y2="227.60089"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1024"
+     inkscape:window-height="716"
+     id="namedview8124"
+     showgrid="false"
+     inkscape:zoom="1.1064878"
+     inkscape:cx="154.76296"
+     inkscape:cy="181.88227"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8122" />
+  <path
+     style="fill:url(#linearGradient8078);fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1.0"
+     d="m 11.297007,227.64978 50.9495,0 0,-122.36544 85.235913,122.53489 50.66463,0 0,-208.768679 -51.16435,0.639055 -0.79882,120.902544 -83.995821,-121.260731 -51.342933,0 0.451881,208.318361 z"
+     id="path8164"
+     inkscape:path-effect="#path-effect8166"
+     inkscape:original-d="m 11.297007,227.64978 50.9495,0 0,-122.36544 85.235913,122.53489 50.66463,0 0,-208.768679 -51.16435,0.639055 -0.79882,120.902544 -83.995821,-121.260731 -51.342933,0 z"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccccccccc" />
+  <path
+     style="fill:#505050;fill-opacity:0.50196081;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.50196078"
+     d="m 84.051593,19.336266 26.265537,44.849116 86.78038,0 c 18.26852,0 21.16399,11.984647 21.16399,18.805678 0,8.108892 -5.12235,16.122271 -21.88293,16.122271 l -60.4706,0 0,8.547369 21.24858,36.18649 40.73978,0 c 9.45838,0 16.61543,6.68714 16.61543,19.97047 0,12.37588 -10.81215,16.13614 -16.61543,16.13614 l -20.68942,0 26.93186,46.23064 c 0,0 10.76861,0.33891 16.1547,0.33891 4.46826,0 49.97585,-2.93697 49.97585,-54.87726 0,-43.47387 -32.40464,-52.38882 -32.40464,-52.38882 0,0 30.89475,-8.59152 30.89475,-43.303846 0,-62.771513 -63.37225,-56.786613 -70.72104,-56.786613 -7.3488,0 -113.986797,0.169455 -113.986797,0.169455 z"
+     id="path8168-8"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccssscccsssccsscszc" />
+  <path
+     style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+     d="m 76.593705,19.276491 26.265545,44.849116 86.78038,0 c 18.26853,0 21.164,11.984647 21.164,18.805678 0,8.108892 -5.12235,16.122271 -21.88294,16.122271 l -60.47059,0 0,8.547364 21.24858,36.1865 40.73977,0 c 9.45838,0 16.61543,6.68714 16.61543,19.97047 0,12.37588 -10.81215,16.13615 -16.61543,16.13615 l -20.68941,0 26.93185,46.23064 c 0,0 10.76862,0.33891 16.15471,0.33891 4.46826,0 49.97585,-2.93697 49.97585,-54.87727 0,-43.47387 -32.40464,-52.38882 -32.40464,-52.38882 0,0 30.89475,-8.59153 30.89475,-43.303851 0,-62.771513 -63.37226,-56.786613 -70.72105,-56.786613 -7.34879,0 -113.986805,0.169455 -113.986805,0.169455 z"
+     id="path8168"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccssscccsssccsscszc" />
+  <g
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     id="text8068">
+    <path
+       d="m 29.484222,243.69362 c -0.534375,-5.48625 -5.05875,-8.65687 -10.794375,-8.6925 -7.62375,0 -12.1837499,6.05625 -12.1837499,13.32375 0,7.2675 4.5599999,13.32375 12.1837499,13.32375 6.163125,0 10.47375,-4.20375 10.83,-10.29562 l -4.34625,0 c -0.35625,3.705 -2.529375,6.66187 -6.48375,6.66187 -5.450625,0 -7.730625,-4.80937 -7.730625,-9.69 0,-4.88062 2.28,-9.69 7.730625,-9.69 3.705,0 5.593125,2.1375 6.34125,5.05875 l 4.453125,0 z"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:35.625px;font-family:'Helvetica Neue LT Std';-inkscape-font-specification:'Helvetica Neue LT Std Medium'"
+       id="path12661" />
+    <path
+       d="m 49.742601,252.88487 c 0.676875,-5.52187 -2.885625,-10.75875 -8.6925,-10.75875 -5.48625,0 -8.90625,4.48875 -8.90625,9.72563 0,5.66437 3.241875,9.69 9.013125,9.69 4.025625,0 7.445625,-2.24438 8.33625,-6.27 l -3.8475,0 c -0.7125,2.03062 -2.1375,3.06375 -4.48875,3.06375 -3.384375,0 -4.951875,-2.565 -4.951875,-5.45063 l 13.5375,0 z m -13.5375,-2.67187 c 0.106875,-2.74313 2.030625,-4.88063 4.845,-4.88063 2.743125,0 4.48875,2.31563 4.63125,4.88063 l -9.47625,0 z"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:35.625px;font-family:'Helvetica Neue LT Std';-inkscape-font-specification:'Helvetica Neue LT Std Medium'"
+       id="path12663" />
+    <path
+       d="m 52.864798,261.043 4.06125,0 0,-10.86563 c 0,-2.7075 1.745625,-4.845 4.453125,-4.845 2.386875,0 3.526875,1.24688 3.598125,4.1325 l 0,11.57813 4.06125,0 0,-12.64688 c 0,-4.1325 -2.529375,-6.27 -6.519375,-6.27 -2.4225,0 -4.524375,1.24688 -5.735625,3.2775 l -0.07125,-0.0712 0,-2.7075 -3.8475,0 0,18.41813 z"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:35.625px;font-family:'Helvetica Neue LT Std';-inkscape-font-specification:'Helvetica Neue LT Std Medium'"
+       id="path12665" />
+    <path
+       d="m 71.468841,245.653 3.06375,0 0,10.86562 c 0.07125,3.06375 0.855,4.7025 5.094375,4.7025 0.890625,0 1.745625,-0.1425 2.63625,-0.21375 l 0,-3.135 c -0.57,0.1425 -1.14,0.1425 -1.71,0.1425 -1.816875,0 -1.959375,-0.855 -1.959375,-2.52937 l 0,-9.8325 3.669375,0 0,-3.02813 -3.669375,0 0,-5.52187 -4.06125,0 0,5.52187 -3.06375,0 0,3.02813 z"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:35.625px;font-family:'Helvetica Neue LT Std';-inkscape-font-specification:'Helvetica Neue LT Std Medium'"
+       id="path12667" />
+    <path
+       d="m 85.219535,261.043 4.06125,0 0,-8.76375 c 0,-4.06125 2.20875,-6.30563 4.9875,-6.30563 0.57,0 1.175625,0.10688 1.745625,0.17813 l 0,-3.91875 c -0.35625,-0.0356 -0.605625,-0.10688 -1.531875,-0.10688 -2.49375,0 -4.91625,2.10188 -5.379375,4.06125 l -0.07125,0 0,-3.5625 -3.811875,0 0,18.41813 z"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:35.625px;font-family:'Helvetica Neue LT Std';-inkscape-font-specification:'Helvetica Neue LT Std Medium'"
+       id="path12669" />
+    <path
+       d="m 109.10832,254.84425 c 0,2.565 -2.77875,3.49125 -4.56,3.49125 -1.425,0 -3.74062,-0.53438 -3.74062,-2.35125 0,-2.1375 1.5675,-2.77875 3.31312,-3.06375 1.78125,-0.32063 3.74063,-0.285 4.9875,-1.10438 l 0,3.02813 z m 4.06125,-7.37438 c 0,-3.88312 -3.77625,-5.34375 -7.37437,-5.34375 -4.06125,0 -8.086876,1.38938 -8.371876,6.1275 l 4.061246,0 c 0.17813,-1.995 1.78125,-2.92125 4.06125,-2.92125 1.63875,0 3.81188,0.39188 3.81188,2.49375 0,2.38688 -2.60063,2.06625 -5.52188,2.60063 -3.42,0.39187 -7.089371,1.14 -7.089371,5.73562 0,3.59813 2.9925,5.37938 6.305621,5.37938 2.17313,0 4.77375,-0.67688 6.37688,-2.24438 0.32062,1.67438 1.49625,2.24438 3.135,2.24438 0.67687,0 1.95937,-0.24938 2.565,-0.46313 l 0,-2.81437 c -0.4275,0.0713 -0.74813,0.0713 -0.9975,0.0713 -0.74813,0 -0.96188,-0.39188 -0.96188,-1.38938 l 0,-9.47625 z"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:35.625px;font-family:'Helvetica Neue LT Std';-inkscape-font-specification:'Helvetica Neue LT Std Medium'"
+       id="path12671" />
+    <path
+       d="m 117.68115,261.043 4.06125,0 0,-25.43625 -4.06125,0 0,25.43625 z"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:35.625px;font-family:'Helvetica Neue LT Std';-inkscape-font-specification:'Helvetica Neue LT Std Medium'"
+       id="path12673" />
+    <path
+       d="m 142.84075,252.88487 c 0.67687,-5.52187 -2.88563,-10.75875 -8.6925,-10.75875 -5.48625,0 -8.90625,4.48875 -8.90625,9.72563 0,5.66437 3.24187,9.69 9.01312,9.69 4.02563,0 7.44563,-2.24438 8.33625,-6.27 l -3.8475,0 c -0.7125,2.03062 -2.1375,3.06375 -4.48875,3.06375 -3.38437,0 -4.95187,-2.565 -4.95187,-5.45063 l 13.5375,0 z m -13.5375,-2.67187 c 0.10687,-2.74313 2.03062,-4.88063 4.845,-4.88063 2.74312,0 4.48875,2.31563 4.63125,4.88063 l -9.47625,0 z"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:35.625px;font-family:'Helvetica Neue LT Std';-inkscape-font-specification:'Helvetica Neue LT Std Medium'"
+       id="path12675" />
+    <path
+       d="m 156.23519,261.043 4.23937,0 0,-18.70313 0.10688,0 11.57812,18.70313 4.7025,0 0,-25.43625 -4.23937,0 0,18.73875 -0.0712,0 -11.61375,-18.73875 -4.7025,0 0,25.43625 z"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:35.625px;font-family:'Helvetica Neue LT Std';-inkscape-font-specification:'Helvetica Neue LT Std Medium'"
+       id="path12677" />
+    <path
+       d="m 192.95232,254.84425 c 0,2.565 -2.77875,3.49125 -4.56,3.49125 -1.425,0 -3.74063,-0.53438 -3.74063,-2.35125 0,-2.1375 1.5675,-2.77875 3.31313,-3.06375 1.78125,-0.32063 3.74062,-0.285 4.9875,-1.10438 l 0,3.02813 z m 4.06125,-7.37438 c 0,-3.88312 -3.77625,-5.34375 -7.37438,-5.34375 -4.06125,0 -8.08687,1.38938 -8.37187,6.1275 l 4.06125,0 c 0.17812,-1.995 1.78125,-2.92125 4.06125,-2.92125 1.63875,0 3.81187,0.39188 3.81187,2.49375 0,2.38688 -2.60062,2.06625 -5.52187,2.60063 -3.42,0.39187 -7.08938,1.14 -7.08938,5.73562 0,3.59813 2.9925,5.37938 6.30563,5.37938 2.17312,0 4.77375,-0.67688 6.37687,-2.24438 0.32063,1.67438 1.49625,2.24438 3.135,2.24438 0.67688,0 1.95938,-0.24938 2.565,-0.46313 l 0,-2.81437 c -0.4275,0.0713 -0.74812,0.0713 -0.9975,0.0713 -0.74812,0 -0.96187,-0.39188 -0.96187,-1.38938 l 0,-9.47625 z"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:35.625px;font-family:'Helvetica Neue LT Std';-inkscape-font-specification:'Helvetica Neue LT Std Medium'"
+       id="path12679" />
+    <path
+       d="m 201.41827,261.043 4.06125,0 0,-10.86563 c 0,-2.7075 1.74562,-4.845 4.45312,-4.845 2.38688,0 3.52688,1.24688 3.59813,4.1325 l 0,11.57813 4.06125,0 0,-12.64688 c 0,-4.1325 -2.52938,-6.27 -6.51938,-6.27 -2.4225,0 -4.52437,1.24688 -5.73562,3.2775 l -0.0712,-0.0712 0,-2.7075 -3.8475,0 0,18.41813 z"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:35.625px;font-family:'Helvetica Neue LT Std';-inkscape-font-specification:'Helvetica Neue LT Std Medium'"
+       id="path12681" />
+    <path
+       d="m 220.02231,245.653 3.06375,0 0,10.86562 c 0.0712,3.06375 0.855,4.7025 5.09437,4.7025 0.89063,0 1.74563,-0.1425 2.63625,-0.21375 l 0,-3.135 c -0.57,0.1425 -1.14,0.1425 -1.71,0.1425 -1.81687,0 -1.95937,-0.855 -1.95937,-2.52937 l 0,-9.8325 3.66937,0 0,-3.02813 -3.66937,0 0,-5.52187 -4.06125,0 0,5.52187 -3.06375,0 0,3.02813 z"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:35.625px;font-family:'Helvetica Neue LT Std';-inkscape-font-specification:'Helvetica Neue LT Std Medium'"
+       id="path12683" />
+    <path
+       d="m 250.48113,252.88487 c 0.67687,-5.52187 -2.88563,-10.75875 -8.6925,-10.75875 -5.48625,0 -8.90625,4.48875 -8.90625,9.72563 0,5.66437 3.24187,9.69 9.01312,9.69 4.02563,0 7.44563,-2.24438 8.33625,-6.27 l -3.8475,0 c -0.7125,2.03062 -2.1375,3.06375 -4.48875,3.06375 -3.38437,0 -4.95187,-2.565 -4.95187,-5.45063 l 13.5375,0 z m -13.5375,-2.67187 c 0.10687,-2.74313 2.03062,-4.88063 4.845,-4.88063 2.74312,0 4.48875,2.31563 4.63125,4.88063 l -9.47625,0 z"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:35.625px;font-family:'Helvetica Neue LT Std';-inkscape-font-specification:'Helvetica Neue LT Std Medium'"
+       id="path12685" />
+    <path
+       d="m 252.60582,255.12925 c 0.0712,4.34625 3.52688,6.4125 8.15813,6.4125 3.81187,0 8.22937,-1.60313 8.22937,-5.985 0,-3.63375 -2.9925,-4.7025 -5.94937,-5.37938 -2.9925,-0.67687 -5.985,-0.96187 -5.985,-2.95687 0,-1.60313 2.17312,-1.88813 3.34875,-1.88813 1.78125,0 3.38437,0.53438 3.74062,2.45813 l 4.23938,0 c -0.49875,-4.09688 -3.91875,-5.66438 -7.695,-5.66438 -3.34875,0 -7.695,1.24688 -7.695,5.2725 0,3.74063 2.92125,4.80938 5.91375,5.45063 2.95687,0.67687 5.91375,0.92625 6.02062,3.06375 0.10688,2.10187 -2.565,2.4225 -4.09687,2.4225 -2.17313,0 -3.95438,-0.855 -4.16813,-3.20625 l -4.06125,0 z"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:35.625px;font-family:'Helvetica Neue LT Std';-inkscape-font-specification:'Helvetica Neue LT Std Medium'"
+       id="path12687" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="original" />
+</svg>
